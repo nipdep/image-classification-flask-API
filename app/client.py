@@ -4,6 +4,7 @@ import json
 import cv2
 
 addr = 'http://localhost:5000'
+# addr = 'http://pr-img-class.herokuapp.com'
 test_url = addr + '/'
 
 # prepare headers for http request
