@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 # route http posts to this method
 @app.route('/', methods=['POST'])
-def test():
+def index():
     r = request
     # convert string of image data to uint8
     nparr = np.fromstring(r.data, np.uint8)
