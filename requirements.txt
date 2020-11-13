@@ -26,7 +26,7 @@ click==7.1.2
 cloudpickle==1.6.0
 colorama==0.4.3
 conda==4.3.16
-conda-build==3.20.3
+conda-build==2.1.5
 conda-package-handling==1.7.0
 ConfigArgParse==1.2.3
 coverage==5.3
